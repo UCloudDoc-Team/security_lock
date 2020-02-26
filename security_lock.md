@@ -27,13 +27,21 @@
 
 EIP：解绑EIP、释放EIP
 
+共享带宽：删除
+
+带宽包：删除
+
+NAT网关：删除
+
+内网VIP：删除
+
+负载均衡 ULB：删除实例
+
 云数据库 UDB：删除实例、关闭
 
 运维审计系统 UHAS：关闭、删除、模拟堡垒机掉电
 
 云内存存储 UMem：释放umemory内存
-
-负载均衡 ULB：删除实例
 
 对象存储 UFile ：删除bucket、删除ufile geo buekct
 
